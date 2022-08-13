@@ -1,0 +1,10 @@
+{
+  "name": "rnx-kit-repro-1804",
+  "version": "0.1.0",
+  "private": true,
+  "description": "",
+  "license": "MIT",
+  "engines": {
+    "node": ">=16"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "name": "@repro/lib",
+  "version": "0.0.1",
+  "private": true,
+  "devDependencies": {
+    "@tsconfig/react-native": "^2.0.2"
+  },
+  "peerDependencies": {
+    "react": "^18.0.0",
+    "react-native": "^0.69.4"
+  }
+}
